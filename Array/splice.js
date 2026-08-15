@@ -24,3 +24,9 @@ let fruitss = ["Apple", "Mango"];
 fruitss.splice(1, 0, "Banana");
 
 console.log(fruitss);
+
+// Here:
+
+// 1 → position
+// 0 → delete nothing
+// "Banana" → item to add
